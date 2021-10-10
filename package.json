@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "description": "douxpang个人博客，由vuepress生成",
+  "main": "index.js",
+  "author": "douxpang",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
