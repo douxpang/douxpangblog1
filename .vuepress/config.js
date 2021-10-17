@@ -14,7 +14,7 @@
 module.exports = {
   title: "来块小饼吧？",
   description: "douxpang的博客",
-  dest: "public",
+  dest: ".vuepress/dist",
   // "base": '/my_blog/',
   base: "/",
   head: [

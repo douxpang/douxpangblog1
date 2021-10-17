@@ -4,7 +4,7 @@
   "author": "reco_luan",
   "scripts": {
     "dev": "vuepress dev . --host \"localhost\"",
-    "build": "vuepress build .vuepress",
+    "build": "vuepress build",
     "deploy": "cloudbase framework deploy"
   },
   "devDependencies": {
