@@ -62,7 +62,7 @@ module.exports = {
         items: [
           {
             text: "GitHub",
-            link: "https://github.com/douxpang/douxpangBlog",
+            link: "https://github.com/douxpang",
             icon: "reco-github",
           },
           {
