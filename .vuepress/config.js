@@ -54,7 +54,7 @@ module.exports = {
       {
         text: "时间线",
         link: "/timeline/",
-        icon: "reco-up",
+        icon: "reco-date",
       },
       {
         text: "Contact",
@@ -96,6 +96,7 @@ module.exports = {
     author: "douxpang",
     authorAvatar: "/avatar.jpeg",
     record: "京ICP备2021032655号",
+    recordLink: "https://beian.miit.gov.cn/",
     startYear: "2021",
   },
   markdown: {
