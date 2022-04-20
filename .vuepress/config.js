@@ -95,7 +95,7 @@ module.exports = {
     lastUpdated: "Last Updated",
     author: "douxpang",
     authorAvatar: "/avatar.jpeg",
-    record: "xxxx",
+    record: "京ICP备2021032655号",
     startYear: "2021",
   },
   markdown: {
