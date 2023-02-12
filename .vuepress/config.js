@@ -12,7 +12,7 @@
 
 // const sidebar = require("./siderbar.js");
 module.exports = {
-  title: "来块小饼吧？",
+  title: "douxpang文档",
   description: "douxpang的博客",
   dest: ".vuepress/dist",
   // "base": '/my_blog/',
